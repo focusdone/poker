@@ -1,7 +1,4 @@
-# poker
-hexo theme
-
-# Poker
+Poker
 
 Poker is a flat and responsive design theme for [Hexo](http://hexo.io).
 
@@ -90,7 +87,11 @@ author:
   intro_line2: "" ## eg: "This is my blog,believe it or not."
   weibo:      ## e.g. 436062867 for http://weibo.com/436062867
   twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
+<<<<<<< HEAD
   github:     ## e.g. focusdone for https://github.com/focusdone
+=======
+  github:     ## e.g. A-limon for https://github.com/A-limon
+>>>>>>> 30d394d32b0741c1ccf01bd16d325e7f3f6db2d3
   facebook:   ## e.g. yangjian for https://favebook.com/yangjian
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
 
@@ -119,9 +120,7 @@ google_cse:
   cx:  ## e.g. 000561263943549425496:mrzrm0gr4kg your Custom Search ID.
 ## https://www.google.com/cse/
 ```
-
-
-
-
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/focusdone/Poker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+# poker
+hexo theme
