@@ -5,13 +5,13 @@ hexo theme
 
 Poker is a flat and responsive design theme for [Hexo](http://hexo.io).
 
-[Demo](http://A-limon.github.io/Poker) || [Alimon's Blog](http://yangjian.me)
+[Focusdone's Blog](http://focusdone.github.io/)
 
-中文说明请访问[这里](http://A-limon.github.io/Poker/hello/introducing-Poker-theme/)
+中文说明请访问[这里](http://focusdone.github.io/Poker/hello/introducing-Poker-theme/)
 ##Installation
 ###Install
 ```
-$ git clone https://github.com/A-limon/Poker.git themes/Poker
+$ git clone https://github.com/focusdone/Poker.git themes/Poker
 ```
 **Poker requires Hexo 2.4.5 and above.** 
 ###Enable
@@ -90,7 +90,7 @@ author:
   intro_line2: "" ## eg: "This is my blog,believe it or not."
   weibo:      ## e.g. 436062867 for http://weibo.com/436062867
   twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
-  github:     ## e.g. A-limon for https://github.com/A-limon
+  github:     ## e.g. focusdone for https://github.com/focusdone
   facebook:   ## e.g. yangjian for https://favebook.com/yangjian
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
 
@@ -123,5 +123,5 @@ google_cse:
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/A-limon/Poker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/focusdone/Poker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
